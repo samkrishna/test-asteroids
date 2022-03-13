@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwissEphemeris",
+        "repositoryURL": "https://github.com/vsmithers1087/SwissEphemeris",
+        "state": {
+          "branch": "main",
+          "revision": "448c49594857a4e834b58e0aa89d5a070ca00375",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
