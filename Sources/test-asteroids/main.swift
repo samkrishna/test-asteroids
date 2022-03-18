@@ -1,5 +1,8 @@
 import Foundation
 import SwissEphemeris
+import CSwissEphemeris
+
+JPLFileManager.setEphemerisPath()
 
 print("Prove that <Astroid> fail to initialze correctly:")
 
